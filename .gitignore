@@ -1,0 +1,24 @@
+# Binaries and build artifacts
+*.exe
+*.out
+*.a
+*.o
+*.so
+
+# Go cache and temporary files
+/bin/
+/pkg/
+/vendor/
+
+# Go module cache
+/go.sum
+/go.work
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# System files
+Thumbs.db
+.DS_Store
